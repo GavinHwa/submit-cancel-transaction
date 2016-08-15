@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/submit-cancel-transaction-commons/submit-cancel-transaction-commons.iml" filepath="$PROJECT_DIR$/submit-cancel-transaction-commons/submit-cancel-transaction-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submit-cancel-transaction-customer/submit-cancel-transaction-customer.iml" filepath="$PROJECT_DIR$/submit-cancel-transaction-customer/submit-cancel-transaction-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submit-cancel-transaction-example-customer/submit-cancel-transaction-example-customer.iml" filepath="$PROJECT_DIR$/submit-cancel-transaction-example-customer/submit-cancel-transaction-example-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submit-cancel-transaction-parent.iml" filepath="$PROJECT_DIR$/submit-cancel-transaction-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submit-cancel-transaction-producer/submit-cancel-transaction-producer.iml" filepath="$PROJECT_DIR$/submit-cancel-transaction-producer/submit-cancel-transaction-producer.iml" />
+    </modules>
+  </component>
+</project>
